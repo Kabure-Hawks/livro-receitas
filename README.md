@@ -2,4 +2,5 @@
 
 Ola seja bem vindo aao meu livro de receitas 😋
 
-- frango catipiry
+- Frango catipiry
+- Chuchu ao molho branco
